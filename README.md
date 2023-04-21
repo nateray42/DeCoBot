@@ -108,7 +108,8 @@ We collected data with Reddit API, ensuring user's privacy.
 
 We have some jupyter notebooks, so feel free to import and use at somewhere, such as Google Colab.
 
-If you want to use crawler, first, you need to enter your own API key in `config.js`.
+If you want to use crawler, first, you need to enter your own API key and project name in `config.json`.
+you can find more information [here](https://www.reddit.com/dev/api/)
 
 <!-- ### Prerequisites
 
