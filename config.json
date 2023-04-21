@@ -1,11 +1,5 @@
 {
-<<<<<<< HEAD
     "client_id" : "Your Client ID",
     "client_secret" : "Your Client Secret",
     "user_agent" : "Your User Agent"
-=======
-    "client_id" : "QXgnNilxAJoowxnJqYSUmA",
-    "client_secret" : "oigCTLqOddP8NkRg_CHbFDI0SElr3w",
-    "user_agent" : "IS 596"
->>>>>>> 60641b27d31f52d8e6c2fc114b2ae3bfe71fca85
 }
